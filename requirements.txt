@@ -1,0 +1,9 @@
+streamlit>=1.36
+requests>=2.31
+numpy>=1.24,<2.0
+pymupdf>=1.24
+sentence-transformers>=3.0
+groq>=0.9
+faiss-cpu>=1.8
+google-genai>=0.3
+pillow>=10.0
